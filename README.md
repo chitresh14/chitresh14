@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Chitresh Sharma
 
 📧 **Email:** [355chitresh@gmail.com](mailto:355chitresh@gmail.com)  
-📞 **Phone:** +91 82336 29793  
 📍 **Location:** Bangalore, Karnataka, India  
 🔗 **LinkedIn:** [linkedin.com/in/chitresh-sharma-788aba67](https://www.linkedin.com/in/chitresh-sharma-788aba67/)  
 🌐 **Portfolio:** Coming Soon
