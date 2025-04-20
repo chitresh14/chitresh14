@@ -3,8 +3,7 @@
 📧 **Email:** [355chitresh@gmail.com](mailto:355chitresh@gmail.com)  
 📍 **Location:** Bangalore, Karnataka, India  
 🔗 **LinkedIn:** [linkedin.com/in/chitresh-sharma-788aba67](https://www.linkedin.com/in/chitresh-sharma-788aba67/)  
-🧠 **LeetCode:** [leetcode.com/chitresh14](https://leetcode.com/355chitresh)<br/>
-💻 **HackerRank:** [https://www.hackerrank.com/chitresh14](https://www.hackerrank.com/355chitresh)<br/>
+🧠 **LeetCode:** [leetcode.com/355chitresh](https://leetcode.com/355chitresh)<br/>
 🌐 **Portfolio:** Coming Soon
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=chitresh14&label=Profile%20Views&color=0e75b6&style=flat)
